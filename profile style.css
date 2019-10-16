@@ -1,0 +1,123 @@
+body {
+	margin:0;
+	background-color: #FBFBEF;
+}
+
+#profile-image {
+	height: 300px;
+	width: 300px;
+	border-radius: 150%;
+}
+
+.profile-image-container {
+	margin-right: 50px;
+}
+
+#location-icon {
+	height: 20px;
+	width: 20px;
+}
+
+.social-media-icons {
+	height: 40px;
+	width: 40px;
+	margin-bottom: 10px;
+}
+
+#message-icon {
+	height: 20px;
+	width: 20px;
+}
+
+.nav-list{
+	display: flex;
+	flex-direction: row;
+	margin-top: 0;
+	justify-content: center;
+	padding: 40px 0px 40px 0px;
+	width: 100%;
+}
+
+.basics__info {
+	padding-top: 70px;
+	margin-right: 50px;
+}
+
+.basics__contact {
+	display: flex;
+	align-items: center;
+	padding-top: 60px;
+}
+
+.container1 {
+	padding-right: -30px;
+	margin-top: 40px;
+}
+
+.container2 {
+ 	margin-top: 30px;
+ 	display: inline-flex;
+ 	justify-content: center;
+ 	width: 100%;
+ }
+
+.skills {
+ 	border: 2px solid #FFBF00;
+ 	color: white;
+ 	font-size: 20px;
+ 	background-color: #F7D358;
+ 	margin: 0px 20px 0px 20px;
+ }
+
+.my-skills {
+ 	font-size: 25px;
+ 	margin:0px 20px 0px 20px;
+ }
+
+hr {
+ 	width: 50%;
+ 	border: 0.5px solid #BDBDBD;
+ }
+
+.backcolor1 {
+	background-color: #F7F8E0;
+}
+
+ul {
+	list-style: none;
+}
+
+.bio {
+	border:2px solid #A4A4A4;
+	width: 450px;
+	margin-right: 50px;
+	border-radius: 20px;
+}
+
+.bio2 {
+	border: 2px solid #A4A4A4;
+	width: 300px;
+	border-radius: 20px;
+}
+
+.container3 {
+	display: inline-flex;
+	width: 100%;
+	justify-content: center;
+	padding-top: 10px;
+}
+
+.links:hover{
+	color: #88B0EE;
+}
+
+.links {
+	color: #296FD8;
+	text-decoration: none;
+	padding-left: 90px;
+}
+
+.header2  {
+	margin-left: 75px;
+}
+
