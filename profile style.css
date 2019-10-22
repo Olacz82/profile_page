@@ -3,7 +3,7 @@ body {
 	background-color: #FBFBEF;
 }
 
-#profile-image {
+.profile-image {
 	height: 300px;
 	width: 300px;
 	border-radius: 150%;
@@ -13,7 +13,7 @@ body {
 	margin-right: 50px;
 }
 
-#location-icon {
+.location-icon {
 	height: 20px;
 	width: 20px;
 }
@@ -24,7 +24,7 @@ body {
 	margin-bottom: 10px;
 }
 
-#message-icon {
+.message-icon {
 	height: 20px;
 	width: 20px;
 }
